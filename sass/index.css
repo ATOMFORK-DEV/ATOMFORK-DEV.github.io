@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: red;
+  color: #fff;
+}
+html .background-wrapper, body .background-wrapper {
+  background-color: #222;
+  color: #fff;
+  margin: 0 0 0 0;
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+html .background-wrapper .background-image, body .background-wrapper .background-image {
+  width: 1120px;
+  height: 480px;
+}/*# sourceMappingURL=index.css.map */
